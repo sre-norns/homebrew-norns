@@ -4,7 +4,6 @@
 class Urthctl < Formula
   desc "Command-line client for Urth synthetic monitoring"
   homepage "https://github.com/sre-norns/urth"
-  version "0.1.0"
   license "PolyForm-Noncommercial-1.0.0"
 
   on_macos do
