@@ -8,25 +8,25 @@ class Urthctl < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/sre-norns/urth/releases/download/v0.1.0/urthctl_v0.1.0_darwin_arm64.tar.gz"
-      sha256 "70c22fcbd4635bb9a38d51d91738810deab9f5368e2afa41a932959aef3627c2"
+      url "https://github.com/sre-norns/urth/releases/download/v0.1.2/urthctl_v0.1.2_darwin_arm64.tar.gz"
+      sha256 "7d71d0ed2767749feae259b5c1bab2e05005531b148775cdbc9b2efe886739a2"
     end
 
     on_intel do
-      url "https://github.com/sre-norns/urth/releases/download/v0.1.0/urthctl_v0.1.0_darwin_amd64.tar.gz"
-      sha256 "815af658b58f1184d7d7009793aa94c5ca70bfd9eef873075a37584be66edde1"
+      url "https://github.com/sre-norns/urth/releases/download/v0.1.2/urthctl_v0.1.2_darwin_amd64.tar.gz"
+      sha256 "ea7a6facaa262f3de22eb3da2fe66a5492458310f11914f90fbd9ba85ba606be"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/sre-norns/urth/releases/download/v0.1.0/urthctl_v0.1.0_linux_arm64.tar.gz"
-      sha256 "16ab53ac313bdec890fa6fde528d348488eafbe9e7a6c3279eb606f228951e16"
+      url "https://github.com/sre-norns/urth/releases/download/v0.1.2/urthctl_v0.1.2_linux_arm64.tar.gz"
+      sha256 "da2cff032e2c54fa61a0c3b3713ed1b55e83cd17f272a22cc94c06120baa4d03"
     end
 
     on_intel do
-      url "https://github.com/sre-norns/urth/releases/download/v0.1.0/urthctl_v0.1.0_linux_amd64.tar.gz"
-      sha256 "729b4df180c129572d6ee3737b99e88d9102be4c8e3eda6bf93ee3f3341f6c3e"
+      url "https://github.com/sre-norns/urth/releases/download/v0.1.2/urthctl_v0.1.2_linux_amd64.tar.gz"
+      sha256 "c7430bc71d1150cc23ca74bf117ca9112353c8030dc29e27ae22f28e6f08538d"
     end
   end
 
